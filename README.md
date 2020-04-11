@@ -1,6 +1,6 @@
 # My Portfolio
 
-This repository has all the files related to my repository. I have forked this repository and edited it to suite me.  
+This repository has all the files related to my portfolio. I have forked this repository and edited it to suite me.  
 
 # Credits
 
